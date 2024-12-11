@@ -24,7 +24,7 @@ Note: Chat and product listing applications are not allowed.
 * A daily push is required to track your code contribution and performance. If you miss a push that will affect your final grade.
       
 ### Technical Evaluation
-The last push should be performed before Thursday 9 pm. Teams are expected to submit video recorded presentation that goes over the project idea, and how to use the system. Do not show or explain your code patterns. Please send me the video URL on Teams. 
+The last push should be performed before Thursday 9 pm. Teams are expected to submit a screen recorded demo that covers the project idea, and how to use the system. Do not show or explain your code patterns. Please send me the video URL on Teams. 
      
 Good luck and happy coding!
   
